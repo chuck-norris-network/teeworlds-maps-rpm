@@ -18,9 +18,9 @@ Extra maps for Teeworlds, an online multi-player platform 2D shooter.
 
 %install
 rm -rf %{buildroot}
-mkdir -p %{buildroot}%{_datadir}/teeworlds/data
+mkdir -p %{buildroot}%{_datadir}/teeworlds/data/maps
 
-cp -pr maps/* %{buildroot}%{_datadir}/teeworlds/data
+cp -pr maps/* %{buildroot}%{_datadir}/teeworlds/data/maps
 
 %files
 %{_datadir}/teeworlds
