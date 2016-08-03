@@ -5,7 +5,7 @@ Summary:        Extra maps for Teeworlds
 
 License:        Unknown
 URL:            https://github.com/chuck-norris-network/teeworlds-maps-rpm
-Source:         %{name}-{version}
+Source:         %{name}-%{version}
 
 BuildArch:      noarch
 Requires:       teeworlds-data
