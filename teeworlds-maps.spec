@@ -1,6 +1,6 @@
 Name:           teeworlds-maps
 Version:        1.0.0
-Release:        7%{?dist}
+Release:        8%{?dist}
 Summary:        Extra maps for Teeworlds
 
 License:        Unknown
